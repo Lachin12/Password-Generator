@@ -1,0 +1,38 @@
+/* styles.css */
+.root {
+    -fx-font-family: "Arial";
+    -fx-background-color: #f4f4f4;
+}
+
+.label {
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+}
+
+.text-field {
+    -fx-font-size: 14px;
+    -fx-padding: 5px;
+}
+
+.check-box {
+    -fx-font-size: 14px;
+}
+
+.button {
+    -fx-font-size: 14px;
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-padding: 10px 20px;
+    -fx-border-radius: 5px;
+}
+
+.button:hover {
+    -fx-background-color: #45a049;
+}
+
+#passwordField {
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-background-color: #e0e0e0;
+    -fx-padding: 10px;
+}

@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "MainPanel",
+      "request": "launch",
+      "mainClass": "src.MainPanel",
+      "projectName": "Password-Generator_da4087e9"
+    },
+    {
+      "type": "java",
+      "name": "Launch MainPanel",
+      "request": "launch",
+      "mainClass": "MainPanel",
+      "vmArgs": "--module-path \"C:\\Users\\lacin\\OneDrive\\Documents\\My projects\\javafx-sdk-23\\lib\" --add-modules javafx.controls,javafx.fxml",
+      "projectName": "Password-Generator"
+    }
+  ]
+}
